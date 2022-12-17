@@ -1,3 +1,8 @@
+// Source: https://github.com/topics/merge-sort
+// Source: https://www.programiz.com/dsa/merge-sort
+// worked w sarim
+
+
 #include <stdio.h>
 #include <pthread.h>
 #include <stdlib.h>

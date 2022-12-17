@@ -3,6 +3,8 @@
 #include <stdlib.h>
 #include <pthread.h>
 
+//worked w/ sarim
+
 #define SIZE 9
 #define SUM_I  SIZE * (SIZE+1) / 2
 // Sudoku board. Modify this to test your checker!
